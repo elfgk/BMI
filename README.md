@@ -34,6 +34,8 @@ Bu uygulama, kullanıcının vücut kitle indeksini (BMI) ve ideal kilosunu hesa
 
 
 **Özet**
+
+
 BMI Değerleri:
 
 <18.5: Aşırı zayıf
@@ -51,6 +53,7 @@ BMI Değerleri:
 
 
 **İdeal Kilo Hesaplama:**
+
 
 Erkek: 50 + 2.3 * (boy / 2.54 - 60)
 
