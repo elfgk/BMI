@@ -23,9 +23,13 @@ Bu uygulama, kullanıcının vücut kitle indeksini (BMI) ve ideal kilosunu hesa
 
 **Kullanım**
 Boyunuzu ve kilonuzu girin.
+
 Cinsiyetinizi seçin.
+
 Hesapla butonuna basarak BMI değerinizi ve kategorinizi görebilirsiniz.
+
 İdeal kilo hesaplaması için İdeal Kilo butonunu kullanın.
+
 Geçmiş hesaplamaları görmek için Öncekiler butonuna basabilirsiniz.
 
 
