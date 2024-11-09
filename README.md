@@ -60,3 +60,16 @@ BMI Değerleri:
    Erkek: 50 + 2.3 * (boy / 2.54 - 60)
 
    Kadın: 45.5 + 2.3 * (boy / 2.54 - 60)
+
+
+
+
+
+## 📫 İletişim ve Destek
+
+Projeye katkıda bulunmak veya önerilerde bulunmak için benimle iletişime geçebilirsiniz:
+
+- GitHub: [https://github.com/elfgk](https://github.com/elfgk)
+- LinkedIn: [https://www.linkedin.com/in/elfgk/](https://www.linkedin.com/in/elfgk/)
+- Kaggle: [https://www.kaggle.com/elfgkk](https://www.kaggle.com/elfgkk)
+- StackOverflow: [https://stackoverflow.com/users/27559679/elfgk](https://stackoverflow.com/users/27559679/elfgk)
