@@ -33,7 +33,7 @@ Bu uygulama, kullanıcının vücut kitle indeksini (BMI) ve ideal kilosunu hesa
 -Geçmiş hesaplamaları görmek için Öncekiler butonuna basabilirsiniz.
 
 
-**Özet**
+##**Özet**
 
 
 BMI Değerleri:
