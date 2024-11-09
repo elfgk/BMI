@@ -38,23 +38,25 @@ Bu uygulama, kullanıcının vücut kitle indeksini (BMI) ve ideal kilosunu hesa
 
 BMI Değerleri:
 
-<18.5: Aşırı zayıf
+   <18.5: Aşırı zayıf
 
-18.5 - 24.9: Normal kilolu
+   18.5 - 24.9: Normal kilolu
 
-25 - 29.9: Hafif şişman
+   25 - 29.9: Hafif şişman
 
-30 - 34.9: Orta derece şişman (1. derece)
+   30 - 34.9: Orta derece şişman (1. derece)
 
-35 - 39.9: Ağır derece şişman (2. derece)
+   35 - 39.9: Ağır derece şişman (2. derece)
 
-40: Çok ağır derecede şişman (3. derece)
+   40: Çok ağır derecede şişman (3. derece)
+
+
 
 
 
 **İdeal Kilo Hesaplama:**
 
 
-Erkek: 50 + 2.3 * (boy / 2.54 - 60)
+   Erkek: 50 + 2.3 * (boy / 2.54 - 60)
 
-Kadın: 45.5 + 2.3 * (boy / 2.54 - 60)
+   Kadın: 45.5 + 2.3 * (boy / 2.54 - 60)
